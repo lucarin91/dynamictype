@@ -1,0 +1,2 @@
+# dynamictype
+very WIP project
